@@ -1,5 +1,4 @@
 import ImcCalc from "./components/imcCalc";
-import "./imcCalc.css";
 
 function App() {
   return (
